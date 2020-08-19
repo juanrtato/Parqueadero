@@ -1,0 +1,72 @@
+             UNIVERSIDAD INDUSTRIAL DE SANTANDER             
+
+=============================================================
+                       PARKING UIS
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  20:20:33  12/4/2020
+      FECHA DE INGRESO:  20:20:6  12/4/2020
+      NÚMERO DE PLAZA:  2
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       ID:         14
+       PLACA:      uis123
+       MARCA:      RENAULT
+       COLOR:      VERDE
+       DESCRIPCIÓN:      BUENO
+
+=============================================================
+
+GRACIAS POR VISITAR EL PARQUEADERO, VUELVA PRONTO...
+
+
+             UNIVERSIDAD INDUSTRIAL DE SANTANDER             
+
+=============================================================
+                       PARKING UIS
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  20:29:29  12/4/2020
+      FECHA DE INGRESO:  20:29:23  12/4/2020
+      NÚMERO DE PLAZA:  2
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       ID:         15
+       PLACA:      UIS123
+       MARCA:      RENAULT
+       COLOR:      VERDE
+       DESCRIPCIÓN:      BUENO
+
+=============================================================
+
+GRACIAS POR VISITAR EL PARQUEADERO, VUELVA PRONTO...
+
+
+             UNIVERSIDAD INDUSTRIAL DE SANTANDER             
+
+=============================================================
+                       PARKING UIS
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  20:34:50  12/4/2020
+      FECHA DE INGRESO:  20:34:46  12/4/2020
+      NÚMERO DE PLAZA:  2
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       ID:         14
+       PLACA:      UIS123
+       MARCA:      RENAULT
+       COLOR:      VERDE
+       DESCRIPCIÓN:      BUENO
+
+=============================================================
+
+GRACIAS POR VISITAR EL PARQUEADERO, VUELVA PRONTO...
+
+

@@ -1,0 +1,25 @@
+             SERVICIO DE PARQUEADERO             
+
+=============================================================
+                       BIENVENIDO(A)
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  21:35:40  13/8/2020
+      FECHA DE INGRESO:  21:35:30  13/8/2020
+      NÚMERO DE PLAZA:  34
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       TIPO:         CARRO
+       ID:         15
+       PLACA:      123
+       MARCA:      ford
+       COLOR:      verde
+       DESCRIPCIÓN:      camioneta
+
+=============================================================
+
+CONSERVE ESTE TICKET HASTA QUE SU VEHICULO SALGA DEL PARQUEADERO
+
+

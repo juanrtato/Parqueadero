@@ -1,0 +1,29 @@
+             SERVICIO DE PARQUEADERO             
+
+=============================================================
+                       BIENVENIDO(A)
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  22:16:37  13/8/2020
+      FECHA DE INGRESO:  22:16:34  13/8/2020
+      NÚMERO DE PLAZA:  63
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       TIPO:         CARRO
+       ID:         17
+       PLACA:      XSR123
+       MARCA:      FORD
+       COLOR:      VERDE
+       DESCRIPCIÓN:      DEPORTIVO
+
+=============================================================
+                    INFORMACIÓN DEL PARQUEADERO:
+       VALOR FRACCIÓN(MINUTO): 
+       CARRO = $110 
+       MOTO = $77
+
+CONSERVE ESTE TICKET HASTA QUE SU VEHICULO SALGA DEL PARQUEADERO
+
+

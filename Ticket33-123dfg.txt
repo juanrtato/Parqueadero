@@ -1,0 +1,25 @@
+             SERVICIO DE PARQUEADERO             
+
+=============================================================
+                       BIENVENIDO(A)
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  22:11:36  13/8/2020
+      FECHA DE INGRESO:  22:11:32  13/8/2020
+      NÚMERO DE PLAZA:  33
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       TIPO:         MOTO
+       ID:         16
+       PLACA:      123dfg
+       MARCA:      susuki
+       COLOR:      negra
+       DESCRIPCIÓN:      dt
+
+=============================================================
+
+CONSERVE ESTE TICKET HASTA QUE SU VEHICULO SALGA DEL PARQUEADERO
+
+

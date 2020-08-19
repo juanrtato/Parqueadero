@@ -1,0 +1,25 @@
+             SERVICIO DE PARQUEADERO             
+
+=============================================================
+                       BIENVENIDO(A)
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  21:32:20  13/8/2020
+      FECHA DE INGRESO:  18:3:23  12/4/2020
+      NÚMERO DE PLAZA:  9
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       TIPO:         CARRO
+       ID:         5
+       PLACA:      XYZ320
+       MARCA:      RENAULT
+       COLOR:      NEGRO
+       DESCRIPCIÓN:      
+
+=============================================================
+
+CONSERVE ESTE TICKET HASTA QUE SU VEHICULO SALGA DEL PARQUEADERO
+
+

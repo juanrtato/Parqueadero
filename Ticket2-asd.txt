@@ -1,0 +1,24 @@
+             UNIVERSIDAD INDUSTRIAL DE SANTANDER             
+
+=============================================================
+                       PARKING UIS
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  18:2:34  12/8/2020
+      FECHA DE INGRESO:  18:2:11  12/8/2020
+      NÚMERO DE PLAZA:  2
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       ID:         14
+       PLACA:      asd
+       MARCA:      ADS
+       COLOR:      ASD
+       DESCRIPCIÓN:      ADD
+
+=============================================================
+
+GRACIAS POR VISITAR EL PARQUEADERO, VUELVA PRONTO...
+
+

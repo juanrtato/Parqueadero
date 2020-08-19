@@ -1,0 +1,48 @@
+             UNIVERSIDAD INDUSTRIAL DE SANTANDER             
+
+=============================================================
+                       PARKING UIS
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  18:35:37  12/4/2020
+      FECHA DE INGRESO:  18:29:1  12/4/2020
+      NÚMERO DE PLAZA:  1
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       ID:         4
+       PLACA:      ASD987
+       MARCA:      MCLAREN
+       COLOR:      AZUL
+       DESCRIPCIÓN:      AUTO DE LUJO.
+
+=============================================================
+
+GRACIAS POR VISITAR EL PARQUEADERO, VUELVA PRONTO...
+
+
+             UNIVERSIDAD INDUSTRIAL DE SANTANDER             
+
+=============================================================
+                       PARKING UIS
+=============================================================
+
+      FECHA DE GENERACIÓN DEL TICKET:  19:22:24  12/4/2020
+      FECHA DE INGRESO:  19:15:36  12/4/2020
+      NÚMERO DE PLAZA:  1
+
+=============================================================
+                    DATOS DEL VEHICULO:
+
+       ID:         4
+       PLACA:      ASD987
+       MARCA:      MCLAREN
+       COLOR:      AZUL
+       DESCRIPCIÓN:      AUTO DE LUJO.
+
+=============================================================
+
+GRACIAS POR VISITAR EL PARQUEADERO, VUELVA PRONTO...
+
+
